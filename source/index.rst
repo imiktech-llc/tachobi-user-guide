@@ -13,7 +13,9 @@
 
    intro
    gui/index
-
+   function/index
+   statuses
+   color-coded
 
 Indices and tables
 ==================

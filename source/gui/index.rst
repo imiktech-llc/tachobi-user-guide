@@ -12,5 +12,6 @@
 
    menu_gui
    common_gui
+   control_rf
 
 
