@@ -103,6 +103,11 @@ html_theme = 'bizstyle'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_copy_source = False
+
+html_search_language = 'ru'
+
+
 
 # -- Options for HTMLHelp output ------------------------------------------
 

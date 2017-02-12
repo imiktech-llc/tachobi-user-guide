@@ -13,13 +13,6 @@
 
    intro
    gui/index
-   function/index
+   functions
    statuses
-   color-coded
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   marking
