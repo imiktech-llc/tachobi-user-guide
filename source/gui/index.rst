@@ -8,10 +8,10 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содерждание:
+   :caption: Содержание:
 
    menu_gui
    common_gui
-   control_rf
+   workrestcontrol_gui
 
 

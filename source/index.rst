@@ -9,7 +9,7 @@
 .. toctree::
    :numbered:
    :maxdepth: 2
-   :caption: Содерждание:
+   :caption: Содержание:
 
    intro
    gui/index
